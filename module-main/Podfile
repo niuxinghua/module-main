@@ -7,5 +7,6 @@ target 'module-main' do
 
   pod 'Masonry'
   pod 'NXHModule1',:path => '/Users/niuxinghua/Desktop/ios/module-main/module-main/module-demo'
+  pod 'NXHModule2',:path => '/Users/niuxinghua/Desktop/ios/module-main/module-main/module-demo2'
   
 end
