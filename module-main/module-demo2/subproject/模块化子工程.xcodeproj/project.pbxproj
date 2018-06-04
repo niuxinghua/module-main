@@ -15,6 +15,7 @@
 		E084A30720C4DCD9009DE2C0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E084A30620C4DCD9009DE2C0 /* main.m */; };
 		E084A37620C503CF009DE2C0 /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = E084A37520C503CF009DE2C0 /* test.m */; };
 		E084A38420C50998009DE2C0 /* AddFromMain.m in Sources */ = {isa = PBXBuildFile; fileRef = E084A38320C50998009DE2C0 /* AddFromMain.m */; };
+		E084A38F20C518BD009DE2C0 /* AddFromSub.m in Sources */ = {isa = PBXBuildFile; fileRef = E084A38E20C518BD009DE2C0 /* AddFromSub.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		E084A37520C503CF009DE2C0 /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = test.m; path = sourcefile/test.m; sourceTree = "<group>"; };
 		E084A38220C50997009DE2C0 /* AddFromMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AddFromMain.h; path = sourcefile/AddFromMain.h; sourceTree = "<group>"; };
 		E084A38320C50998009DE2C0 /* AddFromMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AddFromMain.m; path = sourcefile/AddFromMain.m; sourceTree = "<group>"; };
+		E084A38D20C518BD009DE2C0 /* AddFromSub.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AddFromSub.h; path = sourcefile/AddFromSub.h; sourceTree = "<group>"; };
+		E084A38E20C518BD009DE2C0 /* AddFromSub.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AddFromSub.m; path = sourcefile/AddFromSub.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		E084A2EB20C4DCD7009DE2C0 = {
 			isa = PBXGroup;
 			children = (
+				E084A38D20C518BD009DE2C0 /* AddFromSub.h */,
+				E084A38E20C518BD009DE2C0 /* AddFromSub.m */,
 				E084A38220C50997009DE2C0 /* AddFromMain.h */,
 				E084A38320C50998009DE2C0 /* AddFromMain.m */,
 				E084A37420C503CF009DE2C0 /* test.h */,
@@ -246,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E084A38F20C518BD009DE2C0 /* AddFromSub.m in Sources */,
 				E084A2FC20C4DCD8009DE2C0 /* ViewController.m in Sources */,
 				E084A37620C503CF009DE2C0 /* test.m in Sources */,
 				E084A30720C4DCD9009DE2C0 /* main.m in Sources */,
