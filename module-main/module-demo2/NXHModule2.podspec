@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.platform             = :ios, '7.0'
   s.source               = { :git => 'https://github.com/niuxinghua/module-main' }
 
-  s.source_files = 'module-main/module-demo2/subproject/sourcefile/*.{h,m}'
+  s.source_files = 'subproject/sourcefile/*.{h,m}'
 
 end
