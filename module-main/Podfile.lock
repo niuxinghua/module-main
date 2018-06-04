@@ -1,16 +1,20 @@
 PODS:
   - Masonry (1.1.0)
+  - NXHModule1 (0.0.2)
 
 DEPENDENCIES:
   - Masonry
+  - NXHModule1
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Masonry
+    - NXHModule1
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  NXHModule1: d2d8ace456f4a8c5de54859a5ea39967da444651
 
-PODFILE CHECKSUM: 36ba3d57c834947089e4d51f5c8c28a01172f7b7
+PODFILE CHECKSUM: 2c6889bae6841f561797bd192b5794c9c3604eb6
 
 COCOAPODS: 1.5.3
