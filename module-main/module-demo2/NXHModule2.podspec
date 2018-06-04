@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license              = { :type => 'MIT', :file => 'LICENSE' }
   s.author             = { 'niuxinghua' => '970626879@qq.com' }
   s.platform             = :ios, '7.0'
-  s.source               = { :git => 'https://github.com/niuxinghua/module-demo' }
+  s.source               = { :git => 'https://github.com/niuxinghua/module-main/tree/master/module-main/module-demo2' }
 
   s.source_files = 'subproject/sourcefile/*.{h,m}'
 
