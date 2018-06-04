@@ -1,10 +1,10 @@
 PODS:
   - Masonry (1.1.0)
-  - NXHModule2 (0.0.7)
+  - NXHModule2 (0.0.8)
 
 DEPENDENCIES:
   - Masonry
-  - NXHModule2 (from `/Users/niuxinghua/Desktop/ios/module-main/module-main/module-demo2`)
+  - NXHModule2 (from `/Users/niuxinghua/Desktop/ios/module-main`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -12,12 +12,12 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   NXHModule2:
-    :path: "/Users/niuxinghua/Desktop/ios/module-main/module-main/module-demo2"
+    :path: "/Users/niuxinghua/Desktop/ios/module-main"
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  NXHModule2: b3880809b6bea4e4e8327305dbcb67de844f632d
+  NXHModule2: 9371feef50549b2175e6c118f42873aeb33a444c
 
-PODFILE CHECKSUM: f497f074608b529518ec781808dec1f85f6bd54c
+PODFILE CHECKSUM: cf377f9cd9678806331dd958e4b551d3667d1b41
 
 COCOAPODS: 1.5.3
