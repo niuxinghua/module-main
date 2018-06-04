@@ -1,20 +1,23 @@
 PODS:
   - Masonry (1.1.0)
-  - NXHModule1 (0.0.2)
+  - NXHModule1 (0.1.6)
 
 DEPENDENCIES:
   - Masonry
-  - NXHModule1
+  - "NXHModule1 (from `/Users/niuxinghua/Desktop/ios/模块化子工程`)"
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Masonry
-    - NXHModule1
+
+EXTERNAL SOURCES:
+  NXHModule1:
+    :path: "/Users/niuxinghua/Desktop/ios/模块化子工程"
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  NXHModule1: d2d8ace456f4a8c5de54859a5ea39967da444651
+  NXHModule1: f5a312673c881369d2ccf89b6060d2bc4c86e236
 
-PODFILE CHECKSUM: 2c6889bae6841f561797bd192b5794c9c3604eb6
+PODFILE CHECKSUM: 7c30d6f7a34d217464061286e76d0dc0fa11289e
 
 COCOAPODS: 1.5.3

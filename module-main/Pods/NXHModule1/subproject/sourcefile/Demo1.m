@@ -9,5 +9,8 @@
 #import "Demo1.h"
 
 @implementation Demo1
-
+- (instancetype)init
+{
+    return nil;
+}
 @end
