@@ -6,6 +6,6 @@ inhibit_all_warnings!
 target 'module-main' do
 
   pod 'Masonry'
-  pod 'NXHModule2',:path => '/Users/niuxinghua/Desktop/ios/module-main'
+  pod 'NXHModule2',:path => '/module-main/allsubpodspecs'
   
 end
