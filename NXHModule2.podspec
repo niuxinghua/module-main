@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.author             = { 'niuxinghua' => '970626879@qq.com' }
   s.platform             = :ios, '7.0'
   s.source               = { :git => 'https://github.com/niuxinghua/module-main'}
-  s.source_files = 'subproject/sourcefile/*.{h,m}'
+  s.source_files = 'module-demo2/subproject/sourcefile/*.{h,m}'
 
 end
