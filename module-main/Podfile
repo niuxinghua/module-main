@@ -6,6 +6,6 @@ inhibit_all_warnings!
 target 'module-main' do
 
   pod 'Masonry'
-  pod 'NXHModule2',:path => '../'
+  pod 'NXHModule1',:path => '../module-demo'
   
 end

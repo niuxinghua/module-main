@@ -1,23 +1,23 @@
 PODS:
   - Masonry (1.1.0)
-  - NXHModule2 (0.0.9)
+  - NXHModule1 (0.1.6)
 
 DEPENDENCIES:
   - Masonry
-  - NXHModule2 (from `../`)
+  - NXHModule1 (from `../module-demo`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Masonry
 
 EXTERNAL SOURCES:
-  NXHModule2:
-    :path: "../"
+  NXHModule1:
+    :path: "../module-demo"
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  NXHModule2: b7789e5b92f0d193a78e0ac714f094aa186ac72b
+  NXHModule1: f5a312673c881369d2ccf89b6060d2bc4c86e236
 
-PODFILE CHECKSUM: 37b0eb4e0037d19e48d9473a2bacbc0b08cf8ec0
+PODFILE CHECKSUM: 88878f9e6746322cb7a6deb0fadd3c42b5e25ccb
 
 COCOAPODS: 1.5.3
